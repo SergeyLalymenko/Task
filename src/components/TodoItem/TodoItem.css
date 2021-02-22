@@ -1,0 +1,16 @@
+.todo-item-container{
+    display:flex;
+    justify-content:space-between;
+    width:90%;
+    margin:10px auto;
+    background-color:yellow;
+    padding:5px;
+}
+
+.delete-item-btn{
+    cursor:pointer;
+}
+
+.todo-item-done{
+    background-color:green;
+}
